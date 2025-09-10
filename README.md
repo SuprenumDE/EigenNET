@@ -1,4 +1,4 @@
-![Projekt-Banner](image/EigenNET_GitHub_Banner.png)
+![Projekt-Banner](images/EigenNET_GitHub_Banner.png)
 
 
 # EigenNET
