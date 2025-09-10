@@ -24,6 +24,11 @@ Why the statistical environment ***R***? While *Dense_NN* trains the neural netw
 
 Of course, other environments such as Python are also possible partners. It's all about using the right tool for the concrete task. 
 
-### Here is an overview of what Dense_NN does
+### Here is an overview of what Dense_NN does ...
+
+![Realization](/images/Realization.png).
+
+### ... and all this without a gigantic framework such as TensorFlow!
+
 
 
