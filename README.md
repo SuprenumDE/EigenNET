@@ -1,3 +1,5 @@
-![EigenNET-Banner!](/images/EigenNET_GitHub_Banner.png)
+![Projekt-Banner](images/EigenNET_GitHub_Banner.png)
+
+
 # EigenNET
 Independent. Efficient. Real C++ – Neural network without overhead
