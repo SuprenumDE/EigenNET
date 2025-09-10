@@ -19,6 +19,7 @@ The *EigenNET project* demonstrates how modern neural networks can be trained ef
 
 ### EigenNET and R as Startegic Partner
 Why the statistical environment ***R***? While *Dense_NN* trains the neural network efficiently and resource-conserving in C++, ***R*** handles tasks related to data preparation and analysis - in line with a clear separation of responsibilities and capabilities.
+![R as Stregic Partner](images/Strategic Partner.png).
 
 Of course, other environments such as Python are also possible partners. It's all about using the right tool for the concrete task. 
 
