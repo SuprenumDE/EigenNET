@@ -4,10 +4,15 @@
 # EigenNET
 ## Independent. Efficient. Real C++ – Neural network without overhead
 
-### Dense_NN, the first C++ program of the EigenNET project.
-**Dense_NN** is a compact, powerful C++ program for the efficient implementation and training of **dense networks** – without the need for typical *giant frameworks such as TensorFlow or PyTorch*. Instead, it relies on the lean and precise *Eigen library* to perform linear algebra operations at lightning speed and with minimal memory usage.
+The purpose of the ***EigenNET project*** is to develop streamlined and highly efficient methods related to deep learning and make them available to the ML/DL community. The development tool for these methods is C/C++, and the methods are integrated into an R (Python, etc.) workflow so that complex pre- and post-processing steps do not burden the C/C++ methods. Exemplary workflows in R are of course presented here.
 
-The *EigenNET project* demonstrates how modern neural networks can be trained efficiently even in resource-constrained environments—ideal for embedded systems, scientific prototypes, or simply for anyone who loves C++ and wants or needs to avoid unnecessary overhead.
+*To put it in a nutshell, oversized frameworks such as TensorFlow are not needed. The principle is: “Use the right tool for the work to be done!”* Instead, it relies on the lean and precise *Eigen library* to perform linear algebra operations at lightning speed and with minimal memory usage.
+
+The ***EigenNET project*** demonstrates how modern neural networks can be trained efficiently even in resource-constrained environments—ideal for embedded systems, scientific prototypes, or simply for anyone who loves C++ and wants or needs to avoid unnecessary overhead.
+
+### Dense_NN, the first C++ program of the EigenNET project.
+
+**Dense_NN** is a compact, powerful C++ program for the efficient implementation and training of **dense networks**. 
 
 ### Features:
 <ul>
