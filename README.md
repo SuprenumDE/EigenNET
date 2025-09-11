@@ -3,6 +3,7 @@
 
 # EigenNET
 ## Independent. Efficient. Real C++ – Neural network without overhead
+*Günter Faes, <eigennet@faes.de>*
 
 The purpose of the ***EigenNET project*** is to develop streamlined and highly efficient methods related to deep learning and make them available to the ML/DL community. 
 
