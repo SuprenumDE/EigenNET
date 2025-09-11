@@ -24,21 +24,7 @@ Of course, other environments such as Python are also possible partners. It's al
 
 [**Dense_NN**](https://github.com/SuprenumDE/Dense_NN) is a compact, powerful C++ program for the efficient implementation and training of **dense networks**. 
 
-### Features:
-<ul>
-<li>Dense network architecture with adjustable depth and activation functions</li>
-<li>Eigen-based matrix operations for maximum speed</li>
-<li>Minimal code footprint, maximum control</li>
-<li>Ideal for demonstrations, teaching, and research</li>
-</ul>
 
-
-
-### Here is an overview of what Dense_NN does ...
-
-![Realization](/images/Realization.png).
-
-### ... and all this without a gigantic framework such as TensorFlow!
 
 
 
