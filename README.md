@@ -22,7 +22,7 @@ Of course, other environments such as Python are also possible partners. It's al
 
 ### Dense_NN, the first C++ program of the EigenNET project.
 
-**Dense_NN** is a compact, powerful C++ program for the efficient implementation and training of **dense networks**. 
+[**Dense_NN**](https://github.com/SuprenumDE/Dense_NN) is a compact, powerful C++ program for the efficient implementation and training of **dense networks**. 
 
 ### Features:
 <ul>
