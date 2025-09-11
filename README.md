@@ -4,9 +4,13 @@
 # EigenNET
 ## Independent. Efficient. Real C++ – Neural network without overhead
 
-The purpose of the ***EigenNET project*** is to develop streamlined and highly efficient methods related to deep learning and make them available to the ML/DL community. The development tool for these methods is C/C++, and the methods are integrated into an R (Python, etc.) workflow so that complex pre- and post-processing steps do not burden the C/C++ methods. 
+The purpose of the ***EigenNET project*** is to develop streamlined and highly efficient methods related to deep learning and make them available to the ML/DL community. 
+
+The development tool for these methods is C/C++, and the methods are integrated into an R (Python, etc.) workflow so that complex pre- and post-processing steps do not burden the C/C++ methods. 
 
 *To put it in a nutshell, oversized frameworks such as TensorFlow are not needed. The principle is: “Use the right tool for the work to be done!”*
+
+![Motivation](https://github.com/SuprenumDE/EigenNET/blob/main/images/Motivation.png)
 
 Instead, it relies on the lean and precise [*Eigen library*](https://eigen.tuxfamily.org/index.php?title=Main_Page) to perform linear algebra operations at lightning speed and with minimal memory usage.
 
