@@ -8,7 +8,7 @@ The purpose of the ***EigenNET project*** is to develop streamlined and highly e
 
 *To put it in a nutshell, oversized frameworks such as TensorFlow are not needed. The principle is: “Use the right tool for the work to be done!”*
 
-Instead, it relies on the lean and precise *Eigen library* to perform linear algebra operations at lightning speed and with minimal memory usage.
+Instead, it relies on the lean and precise [*Eigen library*](https://eigen.tuxfamily.org/index.php?title=Main_Page) to perform linear algebra operations at lightning speed and with minimal memory usage.
 
 The ***EigenNET project*** demonstrates how modern neural networks can be trained efficiently even in resource-constrained environments—ideal for embedded systems, scientific prototypes, or simply for anyone who loves C++ and wants or needs to avoid unnecessary overhead.
 
