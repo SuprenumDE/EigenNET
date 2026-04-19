@@ -25,9 +25,12 @@ Why the statistical environment ***R***? Because ML methods such as the followin
 
 Of course, other environments such as Python are also possible partners. It's all about using the right tool for the concrete task and exemplary workflows in R are of course presented here.
 
-### Dense_NN, the first C++ program of the EigenNET project.
+### Dense_NN, the first C++ program of the EigenNET project:
 
 [**Dense_NN**](https://github.com/SuprenumDE/Dense_NN) is a compact, powerful C++ program for the efficient implementation and training of **dense networks**. 
+
+### OrthoFlow, the second member of the EigenNET project: 
+Efficient Singular Value Decomposition (SVD) with [**OrthoFlow**](https://github.com/SuprenumDE/OrthoFlow): A High-Performance Approach Based on Eigen and MKL and part of the EigenNET project.
 
 
 
