@@ -9,3 +9,5 @@ The *PDF* file [Mahalanobis_Cluster.pdf](https://github.com/SuprenumDE/EigenNET/
 The script directory also contains a sample dataset so you can quickly reproduce the R example.
 
 R users should be familiar with the capabilities of **Rcpp**. German-speaking R users may find the YouTube [Rcpp Play List](https://www.youtube.com/watch?v=LVOgDn-iJVA&list=PLFmVgchSGbJjGz0tj2zxf8tzrfoZINX0v&pp=0gcJCVMDOCosWNinsAgC) playlist helpful.
+
+**References:** Richard O. Duda, Peter E. Hart, David G. Stork, **Pattern Classification**, John Wiley & Sons. Inc, 2nd Edition
